@@ -31,3 +31,7 @@ and product performance using the Superstore dataset.
 - Data Modeling
 - Data Visualization
 
+## Credits for Data Source
+- Website: www.kaggle.com
+- Link to download raw data: https://www.kaggle.com/datasets/jamsbrown/global-superstore-data-of-2016
+- Author: James Brown
